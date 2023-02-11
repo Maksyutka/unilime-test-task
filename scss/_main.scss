@@ -26,7 +26,8 @@ html {
   &::-webkit-scrollbar {
     width: 8px;
   }
-  color &.overflowed {
+
+  &.overflowed {
     overflow: hidden;
   }
 }

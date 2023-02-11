@@ -22,7 +22,7 @@ html::-webkit-scrollbar-thumb {
 html::-webkit-scrollbar {
   width: 8px;
 }
-color html.overflowed {
+html.overflowed {
   overflow: hidden;
 }
 
